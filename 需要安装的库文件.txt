@@ -1,0 +1,3 @@
+composer require james-heinrich/getid3
+gie.exe
+jsmediatags.min.js是读取歌词用的，将src="https://tutu.rinai.top/jsmediatags.min.js"替换成可以用的地址（这个可以用如果提示加载失败就换一个地址）
